@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <h3>Hello there! 👋 I'm Amogh, a passionate programmer with a love for Fullstack Development. I love turning ideas into reality and enjoy collaborating with others to create meaningful     
+  projects.</h3>
+  <hr>
+</p>
+<br>
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=EnragedBlaze&show_icons=true&theme=gruvbox">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnragedBlaze&layout=compact&show_icons=true&theme=gruvbox">
+</p>
 
-<!--
-**EnragedBlaze/EnragedBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnragedBlaze&theme=gruvbox">
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>Visitor Count:</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{EnragedBlaze}/count.svg">
+</p>
+
